@@ -46,25 +46,25 @@
 
   <table width="100%"> 
   <tr>
-  <td width="14.285%"> 
+  <td width="14.285%" style="text-align: center;"> 
      <a href="https://github.com/Mahadi74"> <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/linkedin.svg" width="60%"/></a>
    </td>
-  <td width="14.285%">
+  <td width="14.285%" style="text-align: center;">
       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/gitlab.svg" width="60%"/></a>
   </td>
-  <td width="14.285%">
+  <td width="14.285%" style="text-align: center;">
        <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/github.svg" width="60%"/></a>
    </td>
-  <td width="14.285%">
+  <td width="14.285%" style="text-align: center;">
        <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/coderbyte.svg" width="60%"/></a>
   </td>
-  <td width="14.285%">
+  <td width="14.285%" style="text-align: center;">
        <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/instagram.svg" width="60%"/></a>
   </td>
-  <td width="14.285%">
+  <td width="14.285%" style="text-align: center;">
        <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/twitter.svg" width="60%"/></a>
   </td>
-  <td width="14.285%">
+  <td width="14.285%" style="text-align: center;">
        <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/facebook.svg" width="60%"/></a>
   </td>
   </table>

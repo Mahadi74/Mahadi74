@@ -70,7 +70,7 @@
   <table width="100%"> 
   <tr>
    <td width="12.5%"> 
-     <a href="https://mehediswe.me"> <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/browser.svg" width="90%"/></a>
+     <a href="https://mehediswe.me"> <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/browser.svg" width="100%"/></a>
    </td>
     <td width="12.5%"> 
      <a href="https://www.linkedin.com/in/mahadi74"> <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/linkedin.svg" width="90%"/></a>

@@ -6,7 +6,7 @@
   <tr>
   <td width="50%">
       
-   <br> [![Spotify](https://novatorem.vercel.app/api/spotify)]
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)]()
 
   </td>
   

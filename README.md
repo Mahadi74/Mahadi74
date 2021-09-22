@@ -70,27 +70,27 @@
   <table width="100%"> 
   <tr>
    <td width="12.5%"> 
-     <a href="https://mehediswe.me"> <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/browser.svg" width="100%"/></a>
+     <a href="https://mehediswe.me"> <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/browser.svg" width="80%"/></a>
    </td>
     <td width="12.5%"> 
-     <a href="https://www.linkedin.com/in/mahadi74"> <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/linkedin.svg" width="100%"/></a>
+     <a href="https://www.linkedin.com/in/mahadi74"> <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/linkedin.svg" width="80%"/></a>
    </td>
   <td width="12.5%">
-      <a href="https://gitlab.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/gitlab.svg" width="100%"/></a>
+      <a href="https://gitlab.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/gitlab.svg" width="80%"/></a>
   </td>
   <td width="12.5%">
-       <a href="https://github.com/mehedi-rul"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/github.svg" width="100%"/></a>
+       <a href="https://github.com/mehedi-rul"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/github.svg" width="80%"/></a>
    </td>
   <td width="12.5%">
-       <a href="https://www.coderbyte.com/profile/saiful24"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/coderbyte.svg" width="100%"/></a>
+       <a href="https://www.coderbyte.com/profile/saiful24"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/coderbyte.svg" width="80%"/></a>
   </td>
   <td width="12.5%">
-       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/instagram.svg" width="100%"/></a>
+       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/instagram.svg" width="80%"/></a>
   </td>
   <td width="12.5%">
-       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/twitter.svg" width="100%"/></a>
+       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/twitter.svg" width="80%"/></a>
   </td>
   <td width="12.5%">
-       <a href="https://www.facebook.com/mahadihasanshunno"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/facebook.svg" width="100%"/></a>
+       <a href="https://www.facebook.com/mahadihasanshunno"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/facebook.svg" width="80%"/></a>
   </td>
   </table>

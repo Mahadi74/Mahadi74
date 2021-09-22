@@ -40,8 +40,30 @@
   </table>
 
   ### Latest Work
-  <a herf="https://safeinternet.unicefbangladesh.org/"><img src="https://1688997010.rsc.cdn77.org/apple-touch-icon.png" width="100%"/>Safer Internet for Children</a>
-
+<table width="100%"> 
+  <tr>
+    <td width="14.285%"> 
+     <a herf="https://safeinternet.unicefbangladesh.org/"><img src="https://1688997010.rsc.cdn77.org/apple-touch-icon.png" width="100%"/></a>
+   </td>
+  <td width="14.285%">
+      <a href="https://ncbelearning.fpmu.gov.bd/"><img src="https://ncbelearning.fpmu.gov.bd/img/NCB.2789fccb.png" width="60%"/></a>
+  </td>
+  <td width="14.285%">
+       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/github.svg" width="60%"/></a>
+   </td>
+  <td width="14.285%">
+       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/coderbyte.svg" width="60%"/></a>
+  </td>
+  <td width="14.285%">
+       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/instagram.svg" width="60%"/></a>
+  </td>
+  <td width="14.285%">
+       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/twitter.svg" width="60%"/></a>
+  </td>
+  <td width="14.285%">
+       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/facebook.svg" width="60%"/></a>
+  </td>
+  </table>
   ### Connect with me:
 
   <table width="100%"> 

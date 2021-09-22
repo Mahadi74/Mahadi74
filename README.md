@@ -19,22 +19,22 @@
 
 <table width="100%"> 
   <tr>
-  <td width="20%"> 
+  <td width="16.666%"> 
       <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/vue.svg" width="100%"/>
    </td>
-  <td width="20%">
+  <td width="16.666%">
       <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/react.svg" width="100%"/>
   </td>
-  <td width="20%">
+  <td width="16.666%">
        <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/node.svg" width="100%"/>
    </td>
-  <td width="20%">
+  <td width="16.666%">
        <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/javascript.svg" width="100%"/>
   </td>
-  <td width="20%">
+  <td width="16.666%">
        <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/electron.svg" width="100%"/>
   </td>
-  <td width="20%">
+  <td width="16.666%">
        <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/next.svg" width="100%"/>
   </td>
   </table>

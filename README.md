@@ -15,7 +15,7 @@
   
   </table>
 
-### Framework  👋
+### Framework and Language 
 
 <table width="100%"> 
   <tr>
@@ -29,7 +29,7 @@
        <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/node.svg" width="100%"/>
    </td>
   <td width="20%">
-       <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/electron.svg" width="100%"/>
+       <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/javascript.svg" width="100%"/>
   </td>
   <td width="20%">
        <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/electron.svg" width="100%"/>

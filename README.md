@@ -46,9 +46,9 @@
 
   <table width="100%"> 
   <tr>
-    <span width="14.285%"> 
+    <td width="14.285%"> 
      <a href="https://github.com/Mahadi74"> <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/linkedin.svg" width="60%"/></a>
-    </span>
+   </td>
   <td width="14.285%">
       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/gitlab.svg" width="60%"/></a>
   </td>

@@ -88,7 +88,7 @@
        <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/instagram.svg" width="80%"/></a>
   </td>
   <td width="12.5%">
-       <a href="https://github.com/Mahadi74"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/twitter.svg" width="80%"/></a>
+       <a href="https://twitter.com/mahadi03275920"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/twitter.svg" width="80%"/></a>
   </td>
   <td width="12.5%">
        <a href="https://www.facebook.com/mahadihasanshunno"><img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/facebook.svg" width="80%"/></a>

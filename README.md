@@ -35,6 +35,6 @@
        <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/electron.svg" width="100%"/>
   </td>
   <td width="20%">
-       <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/text.svg" width="100%"/>
+       <img src="https://github.com/Mahadi74/Mahadi74/blob/main/assest/next.svg" width="100%"/>
   </td>
   </table>
